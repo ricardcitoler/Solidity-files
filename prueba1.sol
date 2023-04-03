@@ -1,5 +1,6 @@
 
 //@notice this is a test contract to practice the use of the solidity language
+// the purpose of this script is just to create a simple smart contract that allows users to create tasks
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
